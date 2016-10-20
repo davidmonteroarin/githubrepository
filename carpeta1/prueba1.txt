@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 asdasdasd
 223232323
+=======
+asdasdasd
+>>>>>>> d4f4ddc5ca4333b44ec327b258848e63a5f3d58f
