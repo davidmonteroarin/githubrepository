@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Prueba Develop 4
-=======
-Prueba Develop
-
-Prueba experimental 4
->>>>>>> Experimental-test
+Prueba develop web
