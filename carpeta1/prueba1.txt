@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-PRUEBA 20161020 1646 PRUEBA PC
-=======
-PRUEBA 20161020 1645 WEB
->>>>>>> 757f4ce39de37ac8dfc9083ff93fc55de0120ee1 
-
-3214283y42bjfdjfsd
-asd
-asdasdsadas
-
-asdads
+Prueba tras experimental
